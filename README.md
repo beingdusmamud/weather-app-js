@@ -23,5 +23,13 @@ A simple weather application built using JavaScript and the OpenWeatherMap API. 
    ```bash
    git clone https://github.com/beingdusmamud/weather-app-js.git
 2. Navigate to the project directory:
+   ```bash
    cd weather-app-js
+3. Open index.html in your web browser.
+4. Replace 'YOUR_API_KEY' in the app.js file with your own OpenWeatherMap API key:
+   ```bash
+   const apiKey = 'YOUR_API_KEY'; // Replace with your actual API key
+5. Search for a city to view its current weather.
+  ```bash
+
 
