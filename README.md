@@ -31,5 +31,6 @@ A simple weather application built using JavaScript and the OpenWeatherMap API. 
    const apiKey = 'YOUR_API_KEY'; // Replace with your actual API key
 5. Search for a city to view its current weather.
   ```bash
+You can copy this entire block for your `README.md` file.
 
 
