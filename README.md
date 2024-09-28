@@ -22,3 +22,6 @@ A simple weather application built using JavaScript and the OpenWeatherMap API. 
 1. Clone or download the repository:
    ```bash
    git clone https://github.com/beingdusmamud/weather-app-js.git
+2. Navigate to the project directory:
+   cd weather-app-js
+
